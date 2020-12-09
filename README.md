@@ -1,0 +1,2 @@
+# GL3520-USB3.0hub
+HUB3.0 HUB based on GL3520
